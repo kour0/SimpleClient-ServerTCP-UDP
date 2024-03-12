@@ -1,4 +1,4 @@
-# Chat TCP Simple (Serveur & Client)
+# Simple Chat TCP (Serveur & Client)
 
 ## Description
 
@@ -54,7 +54,7 @@ Le client tente de se connecter au serveur dès son lancement. Une fois connect�
 
 Les messages apparaissent au fur et à mesure qu’ils sont reçus
 
-# Day UDP Simple (Serveur & Client)
+# Simple What Time UDP (Serveur & Client)
 
 ## Description
 
